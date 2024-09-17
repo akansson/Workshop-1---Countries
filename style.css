@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .header {
+    background-color: #610808d3;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .menu {
+    background-color: #610808ad;
+    height: 400px;
+    width: 150px;
+    float: left;
+    padding: 20px;
+  }
+  
+  .content {
+    background-color: #6108084b;
+    float: left;
+    width: calc(100% - 150px);
+    height: 400px;
+    text-align: center;
+  }
+  
+  .footer {
+    clear: both;
+    background-color: #610808d3;
+    color: white;
+    text-align: center;
+    padding: 50px;
+  }
+
+  
